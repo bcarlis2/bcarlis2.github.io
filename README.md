@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-[Main Page](https://bcarlis2.github.io/main)
-[HTML Page](https://bcarlis2.github.io/index)
+[Markdown Page](https://bcarlis2.github.io/markdown)
+[HTML Page](https://bcarlis2.github.io/html)
 
 You can use the [editor on GitHub](https://github.com/bcarlis2/bcarlis2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
